@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.22.2.2" platform="*nix">
+	<Servers>
+		<Server>
+			<Host>emerakelly.com</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>emerkelly</User>
+			<Pass encoding="base64">Y2t5M2FDSS0zQ180NV9Nbw==</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_PASSIVE</PasvMode>
+			<MaximumMultipleConnections>5</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>New site</Name>
+			<Comments>cky3aCI-3C_45_Mo</Comments>
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>New site</Server>
+		<Server>
+			<Host>emerakelly.com</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>f691868</User>
+			<Pass encoding="base64">R3JlZW5iYWcxOTYzXzE5OTU=</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>emerakelly</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>emerakelly</Server>
+	</Servers>
+</FileZilla3>
